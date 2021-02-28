@@ -9,6 +9,19 @@ git commit -m ""
 git log
 Git diff filename --- shows differences between modifications
 
+<<<<<<< HEAD
+
+JODEEEEEEEEEEEEEEEER THIS IS FUCKING pollo
+
+
+
+
+
+JODDDDDDDDDDEEEEEEEEEEEEEEEEERRRRRRRRRRRRRRRRRRRRRRRRRRRRRR
+
+
+GIT GITHUB JODER AWESOÑEEEEEEE
+=======
 scenario 1:
 first release -> Done
 Second release
@@ -32,3 +45,4 @@ Person B - pull from master to private branch, merge code to master
 scenario 3:
 1 person - two different features
 work on different branches
+>>>>>>> 6a2d545e0fb5b86ed2d098abb633fdf827951a3d
